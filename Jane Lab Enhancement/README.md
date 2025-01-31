@@ -9,7 +9,7 @@ This is a lab enhancement exercise focused on predicting house prices using thre
     - Investigate the effect of log transformation on the features by comparing performance before and after transformation.
 
 - Multiple Linear Regression: 
-    - Evaluate the model's performance using 2, 5, and all available features.
+    - Evaluate the model's performance using 2, 5, and all features.
 
 - Polynomial Regression: 
     - Investigate the model's ability to capture nonlinear relationships by testing it with 1, 5, all, and selected features.
