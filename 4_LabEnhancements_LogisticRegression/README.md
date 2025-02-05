@@ -7,7 +7,7 @@ Student Name    : Cheryl Gwee En Xin
 Student ID      : 1211103146
 
 ## Enhancements Done
-The main enhancements done were rewording, clarifying, reformatting, and rearrranging parts to make the learning process of logistic regression more smooth. Main parts added were cross-validation for hyperparameter tuning. Bias-variance tradeoff is discussed, and also the importance of selecting the right C hyperparameter, along with how different datasets affect the choice of the hyperparameter. 2D visualizations for it, and 3D visualizations for ,multiclass classifiers have been added. 
+The main enhancements done were rewording, clarifying, reformatting, and rearrranging parts to make the learning process of logistic regression more smooth. Main parts added were cross-validation for hyperparameter tuning. Bias-variance tradeoff, the importance of selecting the right C hyperparameter, along with how different datasets affect the choice of the hyperparameter are discussed. 2D visualizations for it, and 3D visualizations for multiclass classifiers have been added. 
 
 - Added an introductory section for logistic regression to explain the basic overview and provide real-world application examples. 
 
