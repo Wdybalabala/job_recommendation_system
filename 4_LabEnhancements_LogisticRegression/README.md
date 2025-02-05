@@ -1,107 +1,10 @@
 # 4_LabEnhancements_LogisticRegression
 
 This lab enhancement was conducted by:
+
 Student Name    : Cheryl Gwee En Xin
+
 Student ID      : 1211103146
-
-## Table of Contents
-
->[Lab08 - Logistic Regression]
-
->[Import Libraries]
-
->[Logistic Regression]
-
->[The Logistic Sigmoid Function]
-
->[Visualization of Exponentials and the Sigmoid Function]
-
->[The Logistic Regression Model]
-
->[The Log-Odds (Logit) Function, Logistic Regression Function & Decision Boundary]
-
->>[The Log-Odds (Logit) Function]
-
->>[The Decision Boundary]
-
->[Types of Logistic Regression]
-
->>[Binary Logistic Regression]
-
->>[Multiclass/Multinomial Logistic Regression]
-
->>[Single-Predictor/Univariate Logistic Regression]
-
->>[Multiple/Multivariate Logistic Regression]
-
->>[Key Takeaways]
-
->[Single-Predictor Binary Logistic Regression]
-
->>>[Creating and Fitting Single-Predictor Binary Logistic Regression]
-
->>[Single-Predictor Binary Logistic Regression With scikit-learn: Example 1]
-
->>>[Linear Regression Not Suitable Tool]
-
->>>[Create and Fitting the Logistic Regression Model Using scikit-learn]
-
->>>[Confusion Matrix, Precision, Recall & $F_1$- Score]
-
->>>[Predict New Data Points]
-
->>>[Improve the Model]
-
->>[Binary Logistic Regression With scikit-learn: Example 2]
-
->[Multiple-Predictor Binary Logistic Regression]
-
->>>[Create and Fitting Multiple-Predictor Binary Logistic Regression]
-
->>>[Create and Fitting the Logistic Regression Model Using scikit-learn]
-
->>>[Understanding Bias-Variance Tradeoff in Cross-Validation for Hyperparameter Tuning (A continuation of the discussion in "Improve the Model" subsection)]
-
->>>>[Why cross-validation chooses C=0.001 as the best hyperparameter, even though the C=30 model returns higher accuracy]
-
->>>>[Predict New Data Points]
-
->>>>[TODO: Trying Different Datasets and How It Affects the Selection of C]
-
->[Multiclass Logistic Regression]
-
->>>[Create and Fitting Multiple-Predictor Binary Logistic Regression]
-
->>[One-Vs-Rest (OVR) Approach for Computing Prediction]
-
->>[Softmax Approach for Computing Prediction]
-
->>[Differences between the Two Approaches]
-
->[One-Vs-Rest (OVR) Approach]
-
->>>[Create and Fitting the Logistic Regression Model Using scikit-learn]
-
->>[Predict New Data Points]
-
->>[TO DO: Let's Experiment!]
-
->[Multinomial Approach Using Softmax]
-
->>>[Create and Fitting the Logistic Regression Model Using scikit-learn]
-
->>[TO DO: Let's Experiment!]
-
->[Real World Logistic Regression Application: Handwriting Recognition]
-
->[Real World Logistic Regression Application: Diabetes Prediction]
-
->[Mount Google Drive]
-
->[Logistic Regression With StatsModels: Example]
-
-
-
 
 ## Enhancements Done
 The main enhancements done were rewording, clarifying, reformatting, and rearrranging parts to make the learning process of logistic regression more smooth. Main parts added were cross-validation for hyperparameter tuning, 
@@ -125,3 +28,100 @@ The main enhancements done were rewording, clarifying, reformatting, and rearrra
   - Add a text section to discuss the differences of the two approaches
 
 - Add 3d visualizations for each class in OVR and Softmax models 
+
+
+## Lab Table of Contents
+
+>Lab08 - Logistic Regression
+
+>Import Libraries
+
+>Logistic Regression
+
+>The Logistic Sigmoid Function
+
+>Visualization of Exponentials and the Sigmoid Function
+
+>The Logistic Regression Model
+
+>The Log-Odds (Logit) Function, Logistic Regression Function & Decision Boundary
+
+>>The Log-Odds (Logit) Function
+
+>>The Decision Boundary
+
+>Types of Logistic Regression
+
+>>Binary Logistic Regression
+
+>>Multiclass/Multinomial Logistic Regression
+
+>>Single-Predictor/Univariate Logistic Regression
+
+>>Multiple/Multivariate Logistic Regression
+
+>>Key Takeaways
+
+>Single-Predictor Binary Logistic Regression
+
+>>>Creating and Fitting Single-Predictor Binary Logistic Regression
+
+>>Single-Predictor Binary Logistic Regression With scikit-learn: Example 1
+
+>>>Linear Regression Not Suitable Tool
+
+>>>Create and Fitting the Logistic Regression Model Using scikit-learn
+
+>>>Confusion Matrix, Precision, Recall & $F_1$- Score
+
+>>>Predict New Data Points
+
+>>>Improve the Model
+
+>>Binary Logistic Regression With scikit-learn: Example 2
+
+>Multiple-Predictor Binary Logistic Regression
+
+>>>Create and Fitting Multiple-Predictor Binary Logistic Regression
+
+>>>Create and Fitting the Logistic Regression Model Using scikit-learn
+
+>>>Understanding Bias-Variance Tradeoff in Cross-Validation for Hyperparameter Tuning (A continuation of the discussion in "Improve the Model" subsection)
+
+>>>>Why cross-validation chooses C=0.001 as the best hyperparameter, even though the C=30 model returns higher accuracy
+
+>>>>Predict New Data Points
+
+>>>>TODO: Trying Different Datasets and How It Affects the Selection of C
+
+>Multiclass Logistic Regression
+
+>>>Create and Fitting Multiple-Predictor Binary Logistic Regression
+
+>>One-Vs-Rest (OVR) Approach for Computing Prediction
+
+>>Softmax Approach for Computing Prediction
+
+>>Differences between the Two Approaches
+
+>One-Vs-Rest (OVR) Approach
+
+>>>Create and Fitting the Logistic Regression Model Using scikit-learn
+
+>>Predict New Data Points
+
+>>TO DO: Let's Experiment!
+
+>Multinomial Approach Using Softmax
+
+>>>Create and Fitting the Logistic Regression Model Using scikit-learn
+
+>>TO DO: Let's Experiment!
+
+>Real World Logistic Regression Application: Handwriting Recognition
+
+>Real World Logistic Regression Application: Diabetes Prediction
+
+>Mount Google Drive
+
+>Logistic Regression With StatsModels: Example
