@@ -11,7 +11,7 @@
 ## Overview
 For lab enhancements, 4 labs were chosen, which are K-Means, PCA, Linear Regression, and Logistic Regression. For project, a Job Recommender System was developed and was carefully evaluated. 
 
-Github Link for project : https://github.com/Wdybalabala/job_recommendation_system/tree/main
+Github Link for project : https://github.com/Wdybalabala/job_recommendation_system
 
 Project Presentation Link: https://youtu.be/9mCUlLHi0rw
 
