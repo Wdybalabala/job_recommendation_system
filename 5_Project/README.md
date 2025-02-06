@@ -1,6 +1,11 @@
 # Job Recommender System
 Github Link for project : https://github.com/Wdybalabala/job_recommendation_system/tree/main
+
 Project Presentation Link: https://youtu.be/9mCUlLHi0rw
+
+The dataset used in this project is obtained from Kaggle.
+
+Dataset Link: https://www.kaggle.com/datasets/azraimohamad/jobstreet-all-job-dataset
 
 #### Group 39
 
