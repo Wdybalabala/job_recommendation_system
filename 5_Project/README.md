@@ -1,5 +1,5 @@
 # Job Recommender System
-Github Link for project : https://github.com/Wdybalabala/job_recommendation_system/tree/main
+Github Link for project : https://github.com/Wdybalabala/job_recommendation_system
 
 Project Presentation Link: https://youtu.be/9mCUlLHi0rw
 
