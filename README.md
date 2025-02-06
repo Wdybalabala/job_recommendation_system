@@ -1,15 +1,12 @@
 # Group 39
 
 **Lecture section: TC1L**
-| | Student ID     | Student Name                | Tutorial Section | Contribution                                    |
-|--:|:-------------|:---------------------------:|:----------------:| :----------------------------------------------:|
-| 1 | 1211200755   | Wendy Tan Wei Wei           | TT1L             | (Lab Enhancement) PCA & (Project) Data Preprocessing, Data Visualization 
-                   |
-| 2 | 1211202348   | Chan Teng Ee                | TT3L             | (Lab Enhancement) KMeans & (Project) Data Preprocessing, Data Visualization                  
-                   |
-| 3 | 1211103146   | Cheryl Gwee En Xin          | TT3L             | (Lab Enhancement) Logistic Regression & (Project) Modeling, Model Evaluation         |
-| 4 | 1211204142   | Jane Heng Jie Ying          | TT3L             | (Lab Enhancement) Linear Regression & (Project) Data Preprocessing, Executive summary  |
-
+| No. | Student ID   | Student Name          | Tutorial Section | Contribution                                                                |
+|-----|--------------|-----------------------|------------------|-----------------------------------------------------------------------------|
+| 1   | 1211200755    | Wendy Tan Wei Wei      | TT1L             | Lab Enhancement: PCA; Project: Data Preprocessing                         |
+| 2   | 1211202348    | Chan Teng Ee           | TT3L             | Lab Enhancement: KMeans; Project: Data Visualization                      |
+| 3   | 1211103146    | Cheryl Gwee En Xin     | TT3L             | Lab Enhancement: Logistic Regression; Project: Modeling, Model Evaluation |
+| 4   | 1211204142    | Jane Heng Jie Ying     | TT3L             | Lab Enhancement: Linear Regression; Project: Data Preprocessing           |
 
 ## Overview
 For lab enhancements, 4 labs were chosen, which are K-Means, PCA, Linear Regression, and Logistic Regression. For project, a Job Recommender System was developed and was carefully evaluated. 
